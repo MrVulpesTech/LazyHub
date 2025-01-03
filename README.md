@@ -1,0 +1,2 @@
+# LazyHub
+GitHub Automatization
